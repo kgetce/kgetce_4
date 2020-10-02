@@ -1,5 +1,5 @@
 /* Objective Function */
-  max: 420 P1L +360 P2L +300 P3L +420 P2L +360P2M +300 P2S +420 P3L +360 P3M +300 P3S;
+  max: 420 P1L +360 P2L +300 P3L +420 P2L +360 P2M +300 P2S +420 P3L +360 P3M +300 P3S;
   
 /* Constraints */
   +p1L +p1M +p1S <=750;
